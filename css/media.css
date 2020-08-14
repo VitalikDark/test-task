@@ -1,5 +1,6 @@
 
 @media screen and (max-width: 576px) { 
+	.header-left-navigation {width: 0px; font-weight: bold;}
 
 	.menu-items {
 		width: 60%;
